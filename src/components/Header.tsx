@@ -32,9 +32,7 @@ const Header = ({ cartItems, onUpdateQuantity, onRemoveItem }: HeaderProps) => {
           className="text-foreground hover:text-primary transition-colors font-medium">
             Galería
           </HashLink>
-          <a href="#categories" className="text-foreground hover:text-primary transition-colors font-medium">
-            Categorías
-          </a>
+         
           <a href="#custom" className="text-foreground hover:text-primary transition-colors font-medium">
             Logo Personalizado
           </a>
